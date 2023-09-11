@@ -40,7 +40,7 @@ The analysis yields valuable and actionable insights for decision-making.
 
 With these insights, businesses can make informed decisions, optimize their operations, and drive growth and success.
 
-
+Detailed result can be found in the RESULT folder.
 
 
 Original dataset on PostgreSQL : https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
